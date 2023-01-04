@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import "./App.css";
-import Navbar from "./Navbar";
+
 import {
   AiFillLinkedin,
   AiFillGithub,
