@@ -42,7 +42,7 @@
     "postcss": "^8.4.17",
     "tailwindcss": "^3.1.8"
   },
-  "homepage": "https://kensamaa.github.io/my-app",
+  "homepage": "https://kensamaa.github.io/MyPortfolio",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
 }
