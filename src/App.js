@@ -82,10 +82,10 @@ function App() {
           Services I Offer
         </h1>
         <p className="mt-1 text-md dark:text-white">
-          I have experience in building an application and creating cloud
-          architecture as an integration to provide business and consumer
-          solutions. I offer a wide of service, including Frontend & Backend
-          Development, Cloud & IT Solutions Architect, DevOps Architect
+          I have experience in building an application and creating microservice
+          architecture to provide business and consumer solutions. I offer a
+          wide of service, including Frontend & Backend Development, Cloud & IT
+          Solutions Architect, DevOps Architect
         </p>
         <br />
         <div className="mt-4 flex flex-col md:flex-row gap-8 ">
@@ -98,9 +98,10 @@ function App() {
             </p>
             <p className="text-xl dark:text-white">Tools I Use</p>
             <ul>
-              <li className="dark:text-white">React</li>
+              <li className="dark:text-white">Dotnet Core</li>
               <li className="dark:text-white">Node JS (Express)</li>
-              <li className="dark:text-white">Python (Flask)</li>
+              <li className="dark:text-white">Reactjs</li>
+              <li className="dark:text-white">Python </li>
             </ul>
           </div>
 
@@ -115,9 +116,9 @@ function App() {
             </p>
             <p className="text-xl dark:text-white">Tools I Use</p>
             <ul>
-              <li>AWS, Azure, Digital Ocean</li>
-              <li>Openstack</li>
-              <li>Kubernetes & Docker</li>
+              <li>Azure</li>
+
+              <li>Docker & Docker compose</li>
             </ul>
           </div>
 
@@ -131,7 +132,7 @@ function App() {
             <p className="text-xl dark:text-white">Tools I Use</p>
             <ul>
               <li>Gitlab</li>
-              <li>Ansible</li>
+              <li>Azure devops</li>
               <li></li>
             </ul>
           </div>
@@ -146,12 +147,8 @@ function App() {
       </section>
 
       <section id="license" className="mt-10">
-        <h1 className="text-xl font-medium dark:text-white">
-          License & Certifications
-        </h1>
-        <p className="mt-1 text-md dark:text-white">
-          Here are some of the certifications I have.
-        </p>
+        <h1 className="text-xl font-medium dark:text-white">Experiences</h1>
+        <p className="mt-1 text-md dark:text-white"></p>
 
         <div className="flex flex-col md:flex-row gap-8 mt-4">
           <div className="w-full md:w-2/6 shadow-md rounded dark:shadow-white">
@@ -164,13 +161,46 @@ function App() {
             </div>
             <div className="p-4">
               <h1 className="text-xl font-medium dark:text-white">
-                Dasar Pemrograman Javascript
+                developper internship
               </h1>
-              <p className="dark:text-white">Dicoding Indonesia</p>
+              <p className="dark:text-white">intern at royal air maroc</p>
               <p className="text-sm text-gray-500 dark:text-white">May 2023</p>
             </div>
           </div>
 
+          <div className="w-full md:w-2/6 shadow-md rounded dark:shadow-white">
+            <div className="h-48 md:h-56 rounded-t-md relative overflow-hidden">
+              <img
+                src="https://source.unsplash.com/random"
+                layout="fill"
+                objectFit="cover"
+              />
+            </div>
+            <div className="p-4">
+              <h1 className="text-xl font-medium dark:text-white">
+                Software Engineer intern
+              </h1>
+              <p className="dark:text-white">internship at Capgemini</p>
+              <p className="text-sm text-gray-500 dark:text-white">May 2023</p>
+            </div>
+          </div>
+
+          <div className="w-full md:w-2/6 shadow-md rounded dark:shadow-white">
+            <div className="h-48 md:h-56 rounded-t-md relative overflow-hidden">
+              <img
+                src="https://source.unsplash.com/random"
+                layout="fill"
+                objectFit="cover"
+              />
+            </div>
+            <div className="p-4">
+              <h1 className="text-xl font-medium dark:text-white">
+                Dotnet Software Engineer
+              </h1>
+              <p className="dark:text-white">Capgemini</p>
+              <p className="text-sm text-gray-500 dark:text-white">May 2023</p>
+            </div>
+          </div>
           <div className="w-full md:w-2/6 shadow-md rounded dark:shadow-white">
             <div className="h-48 md:h-56 rounded-t-md relative overflow-hidden">
               <img
@@ -187,7 +217,6 @@ function App() {
               <p className="text-sm text-gray-500 dark:text-white">May 2023</p>
             </div>
           </div>
-
           <div className="w-full md:w-2/6 shadow-md rounded dark:shadow-white">
             <div className="h-48 md:h-56 rounded-t-md relative overflow-hidden">
               <img
